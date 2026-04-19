@@ -1,0 +1,13 @@
+{
+  "name": "untemps",
+  "owner": {
+    "name": "untemps"
+  },
+  "plugins": [
+    {
+      "name": "untemps",
+      "source": "./plugins/untemps",
+      "description": "Personal skills for GitHub issue workflows and dependency management."
+    }
+  ]
+}
